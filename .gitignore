@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment folder
+.venv/
+venv/
+ENV/
+
+# FAISS index and its related data file (these are built by indexer.py)
+index/kcc_faiss.index
+index/indexed_data.csv
+
+# OS specific
+.DS_Store
+Thumbs.db
