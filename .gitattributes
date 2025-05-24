@@ -1,0 +1,2 @@
+index/kcc_faiss.index filter=lfs diff=lfs merge=lfs -text
+index/indexed_data.csv filter=lfs diff=lfs merge=lfs -text
